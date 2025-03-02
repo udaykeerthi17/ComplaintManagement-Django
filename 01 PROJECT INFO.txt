@@ -1,6 +1,6 @@
 **Log on to codeastro.com for more projects!**
 
-**Developed by Suraj Bhandarkar**
+**Developed by uday improved from the developer sudhakar**
 
 **Instructions**
 (You can also create and use virtual environment)
